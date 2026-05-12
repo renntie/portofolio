@@ -40,7 +40,7 @@ const EDUCATION = [
     institution: 'TEFA SMK Nurul Islam',
     period: '2025 – 2026',
     description: 'Teaching Factory (TEFA) adalah program di SMK di mana siswa belajar sambil langsung mengerjakan produk atau jasa nyata layaknya di dunia industri bukan sekadar simulasi atau latihan biasa.',
-    topics: ['Git & GitHub', 'Astro', 'React', 'Tailwind CSS', 'Rest API'],
+    topics: ['Git & GitHub', 'Astro', 'React', 'Tailwind CSS', 'Rest API', 'Next.js'],
     icon: 'building-school',
   },
 ]
